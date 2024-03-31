@@ -1,0 +1,10 @@
+.logo {
+  font-weight: 400;
+  font-style: normal;
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--mainBtns-color);
+  font-family: "Train One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
